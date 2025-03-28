@@ -1,4 +1,4 @@
-# vue3-site-template-grid
+# Vue3 Template Site with Grid
 
 Template css with grid, there are separate lines in the background, marking the grid box.
 There is a section with decors on the sides.
